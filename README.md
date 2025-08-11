@@ -1,5 +1,5 @@
 📦 CartFlow: Order Cancellation Analysis
-<p align="center"> <img src="images/cover_1.png" alt="CartFlow dashboard - Overview" width="49%"> <img src="images/cover_2.png" alt="CartFlow cancellation insights" width="49%"> </p>
+<p align="center"> <img src="images/kpi_overview.png" alt="CartFlow dashboard - Overview" width="49%"> <img src="images/sample_data.png" alt="CartFlow cancellation insights" width="49%"> </p>
 
 
 
