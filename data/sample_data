@@ -1,0 +1,11 @@
+order_id,order_value,cancelled,payment_method,shipping_eta_days,device
+1,58,1,credit_card,8,mobile
+2,41,0,debit,3,desktop
+3,72,0,credit_card,2,desktop
+4,63,1,paypal,9,mobile
+5,55,0,credit_card,4,mobile
+6,60,0,debit,5,desktop
+7,49,1,paypal,10,mobile
+8,80,0,credit_card,3,desktop
+9,66,0,debit,6,mobile
+10,52,1,credit_card,7,mobile
